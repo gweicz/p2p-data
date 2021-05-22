@@ -1,0 +1,61 @@
+[
+    {
+        "id": "eth",
+        "name": "ETH L1",
+        "active": true,
+        "tags": [
+            "crypto",
+            "eth"
+        ]
+    },
+    {
+        "id": "polygon",
+        "name": "Polygon (Matic)",
+        "active": true,
+        "tags": [
+            "crypto",
+            "eth",
+            "sidechain"
+        ]
+    },
+    {
+        "id": "xdai",
+        "name": "xDAI",
+        "active": true,
+        "tags": [
+            "crypto",
+            "eth",
+            "sidechain"
+        ]
+    },
+    {
+        "id": "loopring",
+        "name": "Loopring",
+        "active": true,
+        "tags": [
+            "crypto",
+            "eth",
+            "l2"
+        ]
+    },
+    {
+        "id": "hermez",
+        "name": "Hermez",
+        "active": true,
+        "tags": [
+            "crypto",
+            "eth",
+            "l2"
+        ]
+    },
+    {
+        "id": "zksync",
+        "name": "zkSync",
+        "active": true,
+        "tags": [
+            "crypto",
+            "eth",
+            "l2"
+        ]
+    }
+]

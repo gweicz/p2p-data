@@ -1,0 +1,26 @@
+[
+    {
+        "name": "DAI",
+        "networks": [
+            "eth",
+            "polygon",
+            "loopring",
+            "xdai",
+            "zksync",
+            "hermez"
+        ]
+    },
+    {
+        "name": "USDT",
+        "networks": [
+            "eth",
+            "polygon"
+        ]
+    },
+    {
+        "name": "USDC",
+        "networks": [
+            "eth"
+        ]
+    }
+]

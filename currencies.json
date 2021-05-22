@@ -1,5 +1,6 @@
 [
     {
+        "id": "dai",
         "name": "DAI",
         "networks": [
             "eth",
@@ -8,19 +9,24 @@
             "xdai",
             "zksync",
             "hermez"
-        ]
+        ],
+        "active": true
     },
     {
+        "id": "usdt",
         "name": "USDT",
         "networks": [
             "eth",
             "polygon"
-        ]
+        ],
+        "active": true
     },
     {
+        "id": "usdc",
         "name": "USDC",
         "networks": [
             "eth"
-        ]
+        ],
+        "active": true
     }
 ]

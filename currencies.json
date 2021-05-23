@@ -1,6 +1,22 @@
 [
     {
+        "id": "eth",
+        "cmcId": "2",
+        "name": "ETH",
+        "symbol": "ETH",
+        "networks": [
+            "eth",
+            "polygon",
+            "loopring",
+            "xdai",
+            "zksync",
+            "hermez"
+        ],
+        "active": true
+    },
+    {
         "id": "dai",
+        "cmcId": "25",
         "name": "DAI",
         "symbol": "DAI",
         "networks": [
@@ -15,6 +31,7 @@
     },
     {
         "id": "usdt",
+        "cmcId": "3",
         "name": "USDT",
         "symbol": "USDT",
         "networks": [
@@ -25,6 +42,7 @@
     },
     {
         "id": "usdc",
+        "cmcId": "10",
         "name": "USDC",
         "symbol": "USDC",
         "networks": [

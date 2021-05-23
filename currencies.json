@@ -2,6 +2,7 @@
     {
         "id": "dai",
         "name": "DAI",
+        "symbol": "DAI",
         "networks": [
             "eth",
             "polygon",
@@ -15,6 +16,7 @@
     {
         "id": "usdt",
         "name": "USDT",
+        "symbol": "USDT",
         "networks": [
             "eth",
             "polygon"
@@ -24,8 +26,19 @@
     {
         "id": "usdc",
         "name": "USDC",
+        "symbol": "USDC",
         "networks": [
             "eth"
+        ],
+        "active": true
+    },
+    {
+        "id": "czk",
+        "name": "Česká koruna",
+        "symbol": "Kč",
+        "networks": [
+            "revolut",
+            "paypal"
         ],
         "active": true
     }

@@ -42,7 +42,7 @@
     },
     {
         "id": "usdc",
-        "cmcId": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
         "name": "USDC",
         "symbol": "USDC",
         "networks": [

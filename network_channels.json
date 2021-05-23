@@ -57,5 +57,29 @@
             "eth",
             "l2"
         ]
+    },
+    {
+        "id": "revolut",
+        "name": "Revolut",
+        "active": true,
+        "tags": [
+            "fiat"
+        ]
+    },
+    {
+        "id": "paypal",
+        "name": "PayPal",
+        "active": true,
+        "tags": [
+            "fiat"
+        ]
+    },
+    {
+        "id": "bank-transfer",
+        "name": "Bank transfer",
+        "active": true,
+        "tags": [
+            "fiat"
+        ]
     }
 ]

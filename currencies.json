@@ -1,7 +1,7 @@
 [
     {
         "id": "eth",
-        "cmcId": "2",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/32x32/1027.png",
         "name": "ETH",
         "symbol": "ETH",
         "networks": [
@@ -16,7 +16,7 @@
     },
     {
         "id": "dai",
-        "cmcId": "25",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/32x32/4943.png",
         "name": "DAI",
         "symbol": "DAI",
         "networks": [
@@ -31,7 +31,7 @@
     },
     {
         "id": "usdt",
-        "cmcId": "3",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
         "name": "USDT",
         "symbol": "USDT",
         "networks": [
@@ -42,7 +42,7 @@
     },
     {
         "id": "usdc",
-        "cmcId": "10",
+        "cmcId": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
         "name": "USDC",
         "symbol": "USDC",
         "networks": [
@@ -52,6 +52,7 @@
     },
     {
         "id": "czk",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/gwei-p2p.appspot.com/o/currencies%2Fczk.png?alt=media",
         "name": "Česká koruna",
         "symbol": "Kč",
         "networks": [
